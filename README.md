@@ -1,9 +1,9 @@
 # TinyBasicAVR
 Wish List:
-Add commands to use Digital Outputs/Inputs
-Add commands to use ADC Inputs
-Add TV Out, and USB Keyboard In
-Leverage 128K Flash
-Leverage AVR128DB Features
+- Add commands to use Digital Outputs/Inputs
+- Add commands to use ADC Inputs
+- Add TV Out, and USB Keyboard In
+- Leverage 128K Flash
+- Leverage AVR128DB Features
 
 Add docs here along with Business Card PCB Layout
