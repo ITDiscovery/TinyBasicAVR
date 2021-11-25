@@ -26,18 +26,18 @@ Gnd to Gnd
 Serial (Rightmost Pin) to RXD
 
 After installing DXCore Board Manager:
-Board: DxCore AVR DB Series (no bootloader)
-Chip: AVR128DB28
-Clock: 24MHz Internal
-Timer: TCB2
-BOD Level: 1.9V
-BOD Mode: Disabled
-Save EEPROM: retained
-Reset: Hardware
-Startup Time: 8mS
-Flash: Anywhere
-Multivoltage IO: Enabled
-Attach Interupt: Any
-PrintF: Prints Floats
+- Board: DxCore AVR DB Series (no bootloader)
+- Chip: AVR128DB28
+- Clock: 24MHz Internal
+- Timer: TCB2
+- BOD Level: 1.9V
+- BOD Mode: Disabled
+- Save EEPROM: retained
+- Reset: Hardware
+- Startup Time: 8mS
+- Flash: Anywhere
+- Multivoltage IO: Enabled
+- Attach Interupt: Any
+- PrintF: Prints Floats
 
 Programmer: Serial UPDI, 230400 Baud
