@@ -18,3 +18,26 @@ D-  - PIN PA4 (#define DATAPIN 4)
 
 TVout...need to mod spec/hardware_setup.h
 __AVR_DB__
+
+Current Board Connection to FTDI for Programming:
++5V to +5V
+Gnd to Gnd
+- (2nd Pin from Right) to TXD
+Serial (Rightmost Pin) to RXD
+
+After installing DXCore Board Manager:
+Board: DxCore AVR DB Series (no bootloader)
+Chip: AVR128DB28
+Clock: 24MHz Internal
+Timer: TCB2
+BOD Level: 1.9V
+BOD Mode: Disabled
+Save EEPROM: retained
+Reset: Hardware
+Startup Time: 8mS
+Flash: Anywhere
+Multivoltage IO: Enabled
+Attach Interupt: Any
+PrintF: Prints Floats
+
+Programmer: Serial UPDI, 230400 Baud
