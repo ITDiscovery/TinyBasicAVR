@@ -25,6 +25,8 @@ Gnd to Gnd
 - (2nd Pin from Right) to TXD
 Serial (Rightmost Pin) to RXD
 
+http://www.gammon.com.au/forum/?id=11608
+
 After installing DXCore Board Manager:
 - Board: DxCore AVR DB Series (no bootloader)
 - Chip: AVR128DB28
